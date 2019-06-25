@@ -98,13 +98,13 @@ Fully immersive 16 week programming course at leading Europe Developer Bootcamp.
 - Web Frameworks: Sinatra, Ruby on Rails.
 - Mobile Frameworks: iOS app.
 - Databases, PostgreSQL, MongoDB.
-- Testing Suites: RSpec, Capybara, Jasmine, Mocha, Unittest, Selenium-Webdriver, .
+- Testing Suites: RSpec, Capybara, Jasmine, Mocha, Unittest, Selenium-Webdriver.
 - CI/CD: Travis CI, Heroku.
 
 #### University of Southampton (September 2017 - June 2019)
 
 - MSc Criminology - expected 2:1
-- During my time doing this Master I attended an intensive two weeks course at the United Nations in Vienna where I reinforced my eagerness to tech skills in order to tackle pressing crime and social issues.
+- During my time doing this Master I attended an intensive two weeks course at the United Nations in Vienna where I reinforced my eagerness to learn tech skills in order to tackle pressing crime and social issues.
 
 
 #### University of Manchester (2012 -2014)
