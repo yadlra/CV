@@ -1,5 +1,5 @@
 <center>
-<!-- ![alt text](https://user-images.githubusercontent.com/44404687/60360104-ce9ba700-99d2-11e9-9dce-95b98545c3b4.jpg) -->
+![profile pic](https://user-images.githubusercontent.com/44404687/60360747-63eb6b00-99d4-11e9-8eb7-c8cd02086496.png)
 <h1>Yadira Sanchez</h1>
 </center>
 
