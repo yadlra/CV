@@ -57,18 +57,22 @@ I knew I wanted to immerse myself in the world of software engineering, and whil
 
 Following this, I applied to Makers Academy to get not only the basics of good maintainable code, but also to make sure I had a supporting network of people who care about best software engineering practices.
 
-Throughout my journey, I have been able to become confident with self-directed learning and find what tools and processes help me learn the best. My ability to research and learn new tools and techniques, keeping up to date with the latest libraries, frameworks and languages has been tested and proven throughout.
+Throughout my journey, I have been able to become confident with self-directed learning and find what tools and processes help me learn the best. My ability to research and learn new tools and techniques, keeping up to date with the latest libraries, frameworks and languages has let me build some amazing projects and given me the confidence to create based on my interests.
 
 
 ### Problem Solving
 
-My eagerness to find solutions to pressing issues and solving problems led me into the world of software development. I enjoy being part of solving problems, bugs, designs that may arise in a project.
+My eagerness to find solutions to pressing issues and solving problems led me into the world of software development. I enjoy being part of solving problems. I find this particularly useful when learning how to code since most of the time, coding is about debugging. I see this as a fun challenge to take. Knowing that at the end of every debugging session, my code is going to work, only adds up to the excitement of making bigger programs work. This was particularly useful on our final project, creating a iOS app for air quality by using tech stack we had never used: Swift, Xcode, Mapbox, Alamofire. Towards the final day of production, we still had to add a very important feature: showing annotations of air quality details when clicked. Since we had other features to work on, I put myself up for this task. While the task itself was not hard, debugging the new implemented code into the already in use code was a task in itself. I solved this by breaking down the problem into mini steps and focusing on making one function work first and within this function, . Once this had been done, the other steps were easier to accomplish.
+
+### I adapt to new concepts and situations quickly
+
+I love learning and embracing new things, concepts and ideas. It truly excites me to know that I know so little and that there is so much to learn and experience. 
+I came to the UK when I was 17 years old from Mexico, on my own. I took this step because I wanted to study abroad and follow my dream of being good at researching all things crime. My first weeks were a complete culture shock, as a Mexican, the British culture and way of life was very different. I had also found out that British English was harder than my American English learning ear could understand. I remember feeling excited and scared at the same time, there were so many processes and ways of life to assimilate. But within few months, I found myself getting invoved with some interesting organisations, one of them: 'Stop the Traffik' (an organisation raising awareness on human trafficking) by volunteering and attending their meetups as well as being part of the University female football team. While it was challenging coming here, I learned and adapted quickly.
 
 ### Thrive on new challenges
 
-I consider myself a highly adaptive individual who loves new challenges.
+Working along people from all over the world in different parts of Europe, doing humanitarian or impact research makes me feel alive. During my time in Lesvos, working with an NGO in the emergency response team and search and rescue, I was able to connect in a deeper level with colleagues and people who were all in a challenging situation. Working as part of a team whose work is to welcome incoming refugees and have the human and professional skills to work together on a process that is already emotionally and physically daunting for the refugees, allowed me not just to build stronger solidarity and humility but it reinforced my ideals of working towards a better and fairer society.
 
-Working along people from all over the world in different parts of Europe, doing humanitarian or impact research makes me feel alive. During my time in Lesvos, working with an NGO in the emergency response team and search and rescue, I was able to connect in a deeper level with colleagues and people who were all in a challenging situation. Working as part of a team whose work is to welcome incoming refugees and have the human and professional skills to work together on a process that is already emotionally and physically daunting for the refugees, allowed me not just to build stronger solidarity and humility but it reinforced my ideals of working towards a better a fairer society.
 
 ## Experience
 
@@ -92,9 +96,9 @@ Research Assistant
 
 #### Makers Academy (March 2019 - June 2019)
 
-Fully immersive 16 week programming course at leading Europe Developer Bootcamp. Focused on core coding principles and techniques. Emphasis on agile methodologies, Test Driven Development (TDD), Object Oriented Programing and pair programming, to mention some.
+Fully immersive 16 week programming course at leading Europe's Developer Bootcamp. Focused on core coding principles and techniques. Emphasis on agile methodologies, Test Driven Development (TDD), Object Oriented Programing and pair programming, to mention some.
 
-- Languages: Ruby, JavaScript, HTML/CSS, Python, Swift
+- Languages: Ruby, JavaScript, HTML/CSS, Python, Swift.
 - Web Frameworks: Sinatra, Ruby on Rails.
 - Mobile Frameworks: iOS app.
 - Databases, PostgreSQL, MongoDB.
