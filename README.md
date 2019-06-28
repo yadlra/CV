@@ -11,7 +11,7 @@ I thrive on new challenges and finding ways to solve problems. Hence my degrees 
 
 My eagerness to solve pressing issues led me into the world of software and technology where I have found a profound use of tech tools for social change. 
 
-I find extreme joy in learning and continuously preparing myself. I am excited and ready to embrace a career in software development with the goal of combining my other significant passion, humanitarian action for social change. 
+I find extreme joy in learning and continuously preparing myself. I am excited and ready to embrace a career in software development with the goal of combining my passion for humanitarin projects or my deep interest for AI. 
 
 **Background**
 
@@ -57,7 +57,7 @@ I knew I wanted to immerse myself in the world of software engineering, and whil
 
 Following this, I applied to Makers Academy to get not only the basics of good maintainable code, but also to make sure I had a supporting network of people who care about best software engineering practices.
 
-Throughout my journey, I have been able to become confident with self-directed learning and find what tools and processes help me learn the best. 
+Throughout my journey, I have been able to become confident with self-directed learning and find what tools and processes help me learn the best. My ability to research and learn new tools and techniques, keeping up to date with the latest libraries, frameworks and languages has been tested and proven throughout.
 
 
 ### Problem Solving
