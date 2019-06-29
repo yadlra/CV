@@ -34,7 +34,7 @@ I am looking to work for an organisation where I can make a meaningful contribut
 
 **Technologies I am familiar with**
 
-Ruby, JavaScript, Python, Node.js, Swift, Ruby on Rails, Sinatra, Git workflow, CSS, HTML.
+Ruby, JavaScript, Python, Swift, Ruby on Rails, Django, Pygame, Sinatra, CSS, HTML.
 
 ## Projects
 A selection of projects I have worked on. You can find a complete list on my Github(https://github.com/yadlra).
