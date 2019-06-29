@@ -77,21 +77,41 @@ Working along people from all over the world in different parts of Europe, doing
 
 ## Experience
 
+- **UNODC United Nations Office on Drugs and Crime** (Vienna, Austria): January 2019 
+
+SHERLOC Database Contributor:
+The SHERLOC portal is an initiative to facilitate the dissemination of information regarding the implementation of the UN Convention against Transnational Organized Crime. During this month, I contributed to the database by conducting an extensive research and analysis of a cybercrime case.
+
 - **Lighthouse Relief** (Lesvos, Greece): March 2017 - May 2017
 
-Field Officer
+Field Officer:
+First aid help and orientation is given to refugees crossing from Turkey to Greece on the shore landing area in the north of Lesvos. I provided logistical organisation of the camp. During night watch shifts my team of three would watch the waters between Greece and Turkey in search of incoming boats; crucial work since it permits the SAR (Search and Rescue) crews to be directed to these refugee boats. We would also communicate and partner with other NGOs in the area to have the most straightforward landing and welcoming of refugees.
 
 - **Aldi** (Various Locations, England): March 2015 - October 2018
 
-Deputy Manager
+Deputy Manager:
+Aldi is a very fast-paced working environment and I need to be on top at everything I do. Productivity targets are high, therefore focus, speed and quality are priorities. I worked closely with the Store Managers and deputise when they were away. My main duties included: Managing the team to meet the company's KPI targets, customer service including resolving complaints, supporting and motivating team members, setting up the store for deliveries, cashing up and banking, and administration.
 
-- **Teach a Man to Fish** (London, England): October 2015 - February 2017
+- **Teach a Man to Fish** (London, England): October 2014 - February 2017
 
-Project Assistant (part-time home based position)
+Project Assistant (part-time, home based position):
+Teach a Man to Fish, an Non-Governmental Organization based in London provides that future generations of entrepreneurs living in rural areas of Central America with the tools and education required for a successful path in their start ups. I have given assistance to the Central American team by translating projects into Spanish, more specifically the Latin American variant.
+
+- **Aldi** (Winchester, England): August 2014 - March 2015
+
+Assistant:
+During this time as a Store Assistant I proved myself to be committed, reliable and constant on my given tasks.  
 
 - **Anna Freud Centre** (London, England): April 2014 - July 2014
 
-Research Assistant
+Research Assistant:
+The Anna Freud Centre provides specialist help for children and young people in emotional distress, helping to put them back on track for a brighter future. The Centre had at the time, decided to expand its services and  planning to offer psychiatric evaluations of its patients. My primary role has been to support the Child and Adolescent Psychiatrists at the Centre in producing the report necessary for establishing this service.
+
+- **International Anti-Corruption Academy** (Laxemburg, Austria): September 2013 - December 2013
+
+Intern, External Relations and Protocol:
+This organization reports to the United Nations Office on Drugs and Crime (UNODC) and the European Anti-Fraud Office (OLAF). It is the first global organization of its kind dedicated to provide anti-corruption education and research. During my time at the Academy, I was able to engage in diplomatic meetings and take notes for further meetings and proceedings. I also compiled detailed research on corruption issues and anti-corruption measures on various countries.
+
 
 ## Education
 
@@ -110,6 +130,7 @@ Fully immersive 16 week programming course at leading Europe's Developer Bootcam
 
 - MSc Criminology - expected 2:1
 - During my time doing this Master I attended an intensive two weeks course at the United Nations in Vienna where I reinforced my eagerness to learn tech skills in order to tackle pressing crime and social issues.
+- During my Master I was exposed to various technological tools for research. Working in projects along students from the Data Science and Cybersecurity Masters, I realised the many amazing possibilities that software enginnering can offer to the field of research but more importantly to tackling crime and other societal issues. After working along with people from a computer science background and being exposed the amazing stuff they could make, there was no doubt in my mind that software engineering was the path I wanted to take on and own.
 
 
 #### University of Manchester (2012 -2014)
@@ -125,5 +146,5 @@ Fully immersive 16 week programming course at leading Europe's Developer Bootcam
 
 * Travelling/Exploring - I love travelling and encountering new places and cultures.
 * Learning languages - Spanish being my first tongue offers me the advantage to talk to most of Latin America, but coming to the UK, I knew I wanted to learn other languages, so I immersed myself in French during my Bachelors and most recently German.
-* Colours, textures and food - As a Mexican, I am a huge fan of colorful stuff, be it clothes, spaces, anything. 
+* Colours, textures and food - As a Mexican, I am a huge fan of colorful things, be it clothes, spaces, anything. 
 * Personal growth - I find meaning in continuously evolving and improving myself through forms of expression like yoga, meditation, colouring, reading, informing myself and learning from others.
