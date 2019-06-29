@@ -8,11 +8,11 @@
 **Who am I**
 
 I am a passionate and vibrant person who loves colours, tech, humanitarian projects and travelling.
-I thrive on new challenges and finding ways to solve problems. Hence my degrees in Criminology and background in working with NGOs across Europe. 
+I thrive on new challenges and finding ways to solve problems. Hence my degrees in Criminology and background in working with NGOs across in the UK and Europe. 
 
 My eagerness to solve pressing issues led me into the world of software and technology where I have found a profound use of tech tools for social change. 
 
-I find extreme joy in learning and continuously preparing myself. I am excited and ready to embrace a career in software development with the goal of combining my passion for humanitarin projects or my deep interest for AI. 
+I find extreme joy in learning and continuously preparing myself. I am excited and ready to embrace a career in software development with the goal of combining my passion for humanitarin projects or my deep interest in AI. 
 
 **Background**
 
