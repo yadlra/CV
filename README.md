@@ -12,7 +12,7 @@ I thrive on new challenges and finding ways to solve problems. Hence my degrees 
 
 My eagerness to solve pressing issues led me into the world of software and technology where I have found a profound use of tech tools for social change and development. 
 
-I find extreme joy in learning and continuously preparing myself. I am excited and ready to embrace a career in software development with the goal of combining my passion for humanitarin projects and/or my deep interest in AI. 
+I find extreme joy in learning and continuously preparing myself. I am excited and ready to embrace a career in software development with the goal of combining my passion for humanitarin projects and my deep interest in AI. 
 
 **Background**
 
