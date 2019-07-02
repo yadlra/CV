@@ -103,12 +103,12 @@ During this time as a Store Assistant I proved myself to be committed, reliable 
 - **Anna Freud Centre** (London, England): April 2014 - July 2014
 
 Research Assistant:
-The Anna Freud Centre provides specialist help for children and young people in emotional distress, helping to put them back on track for a brighter future. The Centre had at the time, decided to expand its services and  planning to offer psychiatric evaluations of its patients. My primary role has been to support the Child and Adolescent Psychiatrists at the Centre in producing the report necessary for establishing this service.
+The Centre had at the time, decided to expand its services and  planning to offer psychiatric evaluations of its young patients with any sort of court involvement. I helped the Child and Adolescent Psychiatrists at the Centre in producing the report necessary for establishing this service.
 
 - **International Anti-Corruption Academy** (Laxemburg, Austria): September 2013 - December 2013
 
 Intern, External Relations and Protocol:
-This organization reports to the United Nations Office on Drugs and Crime (UNODC) and the European Anti-Fraud Office (OLAF). It is the first global organization of its kind dedicated to provide anti-corruption education and research. During my time at the Academy, I was able to engage in diplomatic meetings and take notes for further meetings and proceedings. I also compiled detailed research on corruption issues and anti-corruption measures on various countries.
+During my time at IACA, I was able to engage in diplomatic meetings for translation purposes. I compiled detailed research on corruption issues and anti-corruption measures on Mexico, Colombia and Spain. This research was part of the portfolio in diplomatic meetings between the Dean and the diplomatic missions of such countries.
 
 
 ## Education
