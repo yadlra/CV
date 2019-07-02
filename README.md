@@ -93,7 +93,7 @@ Aldi is a very fast-paced working environment and I need to be on top at everyth
 - **Teach a Man to Fish** (London, England): October 2014 - February 2017
 
 Project Assistant (part-time, home based position):
-Teach a Man to Fish, an Non-Governmental Organization based in London provides that future generations of entrepreneurs living in rural areas of Central America with the tools and education required for a successful path in their start ups. I have given assistance to the Central American team by translating projects into Spanish, more specifically the Latin American variant.
+a Non-Governmental Organization based in London which provides future generations of entrepreneurs living in rural areas of Central America with the tools and education required for a successful process in their start up projects. I have given assistance to the Central American team by translating projects into Spanish.
 
 - **Aldi** (Winchester, England): August 2014 - March 2015
 
