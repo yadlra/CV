@@ -29,9 +29,6 @@ Client-facing experience with leading supermarket discounter Aldi.
 
 3+ years of experience managing and training 10 -15 member teams.
 
-**My goal**
-
-I am looking to work for an organisation where I can make a meaningful contribution.  I am an enthusiastic learner and love learning new technologies and skills. 
 
 **Technologies I am familiar with**
 
