@@ -7,9 +7,7 @@
 
 **Who am I**
 
-I am a passionate and vibrant person who loves colours, tech and humanitarian projects.
-
-My eagerness to solve pressing issues led me into the world of software and technology where I have found the various possibilities of using tech tools for social change. My journey within software engineering has allowed me to gain the skills necessary to create clean, maintainable code by following TDD processes and agile designs. Through my self-directed learning, I have developed full-stack projects in Ruby and JavaScript; and collaborated in developing a Rails web app and an iOS app with Swift.
+My eagerness to solve social pressing issues led me into the world of software and technology where I have found the various possibilities of using tech tools for social change. My journey within software engineering has allowed me to gain the skills necessary to create clean, maintainable code by following TDD processes and agile designs. Through my self-directed learning, I have developed full-stack projects in Ruby and JavaScript; and collaborated in developing a Rails web app and an iOS app with Swift.
 
 My self-awareness has played an essential role in my learning and development. Along with my warm and cheerful personality I have been able to thrive and be true to myself and others I work with.
 
