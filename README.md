@@ -1,5 +1,4 @@
 <center>
-<!-- ![profile pic]() -->
 <h1>Yadira Sanchez</h1>
 </center>
 
@@ -9,9 +8,9 @@
 
 My eagerness to solve social pressing issues led me into the world of software and technology where I have found the various possibilities of using tech tools for social change. My journey within software engineering has allowed me to gain the skills necessary to create clean, maintainable code by following TDD processes and agile designs. Through my self-directed learning, I have developed full-stack projects in Ruby and JavaScript; and collaborated in developing a Rails web app and an iOS app with Swift.
 
-My self-awareness has played an essential role in my learning and development. Along with my warm and cheerful personality I have been able to thrive and be true to myself and others I work with.
+My self-awareness has played an essential role in my learning and development. Along with my warm and cheerful personality, I have been able to thrive and be true to myself and others I work with.
 
-Throughout my self-directed learning, I have developed the skills to learn any language I have set myself to learn. Thus allowing me to explore my interests. 
+Throughout my self-directed learning, I have developed the skills to learn any language I have set myself to learn. Thus allowing me to explore my interests and proving my language agnostic skills. 
 
 **Background**
 
@@ -30,7 +29,7 @@ Client-facing experience with leading supermarket discounter Aldi.
 
 **Technologies I am familiar with**
 
-Ruby, JavaScript, Python, Swift, Ruby on Rails, Django, Pygame, Sinatra, CSS, HTML.
+Ruby, JavaScript, Python, Swift, Ruby on Rails, PostgreSQL, Sinatra, CSS/HTML.
 
 ## Projects
 A selection of projects I have worked on. You can find a complete list on my Github(https://github.com/yadlra).
