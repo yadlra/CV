@@ -6,7 +6,7 @@
 
 **Who am I**
 
-I am full-stack software developer with a passion for cutting edge technology, learning and impactful projects. My journey within software engineering has allowed me to gain the skills necessary to create clean, maintainable code by following TDD processes and agile designs. Through my self-directed learning, I have developed full-stack projects in Ruby and JavaScript; and collaborated in developing a Rails web app and an iOS app.
+I am full-stack software developer with a passion for cutting edge technology, learning and impactful projects. My journey within software engineering has allowed me to gain the skills necessary to create clean, maintainable code by following TDD processes and agile designs. Through my self-directed learning, I have developed full-stack projects in Ruby and JavaScript; and collaborated in developing a Rails web app and an iOS app. Currently, I am working on a personal project using Python - a full stack interactive web app that will show information on enforced disappearances in Mexico.
 
 My self-awareness has played an essential role in my learning and development. Along with my warm and cheerful personality, I have been able to thrive and be true to myself and others I work with.
 
