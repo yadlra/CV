@@ -11,8 +11,6 @@ My eagerness to solve pressing issues led me into the world of software and tech
 
 My self-awareness has played an essential role in my learning and development. Along with my warm and cheerful personality, I have been able to thrive and be true to myself and others I work with.
 
-Throughout my self-directed learning, I have developed the skills to learn any language I have set myself to learn. Thus allowing me to explore my interests and proving my language agnostic skills.
-
 I find extreme joy in learning and continuously preparing myself. I am excited and ready to embrace a career in software development with the goal of using my skills as a drive for good.
 
 **Background**
