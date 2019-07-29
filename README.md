@@ -50,7 +50,6 @@ At first, I started by reading and watching coding basics for at least 1 hour ev
 
 I knew I wanted to immerse myself in the world of software engineering, and while I had my doubts about being capable of doing such thing(in the sense that I had never done a technical degree) I knew this is what I wanted to do and get really good at. I started looking for bootcamps in London and Europe and after careful consideration I decided on my choice.
 
-Following this, I applied to Makers Academy to get not only the basics of good maintainable code, but also to make sure I had a supporting network of people who care about best software engineering practices.
 
 Throughout my journey, I have been able to become confident with self-directed learning and find what tools and processes help me learn the best. My ability to research and learn new tools and techniques, keeping up to date with the latest libraries, frameworks and languages has let me build some amazing projects and given me the confidence to create based on my interests.
 
@@ -124,7 +123,7 @@ Fully immersive 16 week programming course at leading Europe's Developer Bootcam
 
 - MSc Criminology - expected 2:1
 - During my time doing this Master I attended an intensive two weeks course at the United Nations in Vienna where I reinforced my eagerness to learn tech skills in order to tackle pressing crime and social issues.
-- During my Master I was exposed to various technological tools for research. Working in projects along students from the Data Science and Cybersecurity Masters, I realised the many amazing possibilities that software enginnering can offer to the field of research but more importantly to tackling crime and other societal issues. After working along with people from a computer science background and being exposed the amazing stuff they could make, there was no doubt in my mind that software engineering was the path I wanted to take on and own.
+- During my Master I was exposed to various technological tools for research. Working in projects along students from the Data Science and Cybersecurity Masters, I realised the many amazing possibilities that software engineering can offer to the field of research to better understanding and tackling crime and other societal issues. After working along with people from a computer science background and being exposed to the amazing stuff they could make, there was no doubt in my mind that software engineering was the path I wanted to take on and own.
 
 
 #### University of Manchester (2012 -2014)
