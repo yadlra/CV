@@ -1,4 +1,4 @@
-<p align="center"><img src="./images/yadira_profile.jpeg" alt="portrait" width="250"/></p>
+<p align="center"><img src="./images/profile_yadira.png" alt="portrait" width="250"/></p>
 <center><h1>Yadira Sanchez</h1></center>
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies & Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/yadira-sanchez/)
