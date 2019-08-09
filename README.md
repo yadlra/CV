@@ -9,7 +9,7 @@ I am a passionate and vibrant person with a background in research, retail and h
 
 My eagerness to solve pressing issues led me into the world of software and technology where I have found a profound use of tech tools for social impact. Currently, I am working on a personal project using Python - a full stack interactive web app that will show information on enforced disappearances in Mexico in an interactive and engaging way.
 
-My self-awareness has played an essential role in my learning and development. Along with my warm and cheerful personality, I have been able to thrive and be true to myself and others I work with.
+My self-awareness has played an essential role in my learning and development. Along with my warm and humble personality, I have been able to thrive and be true to myself and others I work with.
 
 I find extreme joy in learning and continuously preparing myself. I am excited and ready to embrace a career in software development with the goal of using my skills as a drive for good.
 
