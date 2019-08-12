@@ -7,17 +7,17 @@
 
 I am a passionate and vibrant person with a background in research, retail and humanitarian projects. I thrive on new challenges and finding ways to solve problems. Hence my degrees in Criminology and background in working with NGOs across Europe. 
 
-My eagerness to solve pressing issues led me into the world of software and technology where I have found a profound use of tech tools for social impact. Currently, I am working on a personal project using Python - a full stack interactive web app that will show information on enforced disappearances in Mexico in an interactive and engaging way.
+My eagerness to solve pressing issues led me into the world of software and technology where I have found a profound use of tech tools for positive social impact. Currently, I am working on a personal project using Python - a full stack interactive web app that will show information on enforced disappearances in Mexico.
 
-My self-awareness has played an essential role in my learning and development. Along with my warm and humble personality, I have been able to thrive and be true to myself and others I work with.
+My background in research and retail management have given me a solid foundation in problem solving and data analysis as well as team management and the ability to cope under pressure. This varied background has given me the tools to be true to myself and others I work with. My self awareness has allowed me to be authentic and humble in any professional setting.
 
-I find extreme joy in learning and continuously preparing myself. I am excited and ready to embrace a career in software development with the goal of using my skills as a drive for good.
+I find extreme joy in learning and continuously preparing myself. I am really excited and ready to embrace a career in Software Development with the goal of using my skills in real life projects; learning and gwowing within Tech.
 
 **Background**
 
 - **Research**
 
-5+ years of experience working in part-time and full time research jobs for Non Governmental Organizations in the UK and Europe.
+5+ years of experience working in part-time and full time research jobs for Non Governmental Organizations in the UK and Europe, using qualitative methodologies as well as statistical methods.
 
 - **Client Facing (Retail Management)**
 
@@ -27,10 +27,6 @@ Client-facing experience with leading supermarket discounter Aldi.
 
 3+ years of experience managing and training 10 -15 member teams.
 
-
-**Technologies I am familiar with**
-
-Ruby, JavaScript, Python, Swift, Ruby on Rails, PostgreSQL, Sinatra, CSS/HTML.
 
 ## Projects
 A selection of projects I have worked on. You can find a complete list on my Github(https://github.com/yadlra).
