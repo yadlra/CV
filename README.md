@@ -9,7 +9,7 @@ I am a passionate and vibrant person with a background in research, retail and h
 
 My eagerness to solve pressing issues led me into the world of software and technology where I have found a profound use of tech tools for positive social impact. Currently, I am working on a personal project using Python - a full stack interactive web app that will show information on enforced disappearances in Mexico.
 
-My background in research and retail management have given me a solid foundation in problem solving and data analysis as well as team management and the ability to cope under pressure. This varied background has given me the tools to be true to myself and others I work with. My self awareness has allowed me to be authentic and humble in any professional setting.
+My background in research and retail management have given me a solid foundation in problem solving and data analysis as well as team management and the ability to cope under pressure. This varied background has given me the tools to be true to myself and others I work with. My self awareness has allowed me to be authentic and humble in a professional setting.
 
 I find extreme joy in learning and continuously preparing myself. I am really excited and ready to embrace a career in Software Development with the goal of using my skills in real life projects; learning and gwowing within Tech.
 
