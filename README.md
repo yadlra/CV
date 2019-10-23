@@ -77,7 +77,7 @@ The SHERLOC portal is an initiative to facilitate the dissemination of informati
 Field Officer:
 First aid help and orientation is given to refugees crossing from Turkey to Greece on the shore landing area in the north of Lesvos. I provided logistical organisation of the camp. During night watch shifts my team of three would watch the waters between Greece and Turkey in search of incoming boats; crucial work since it permits the SAR (Search and Rescue) crews to be directed to these refugee boats. We would also communicate and partner with other NGOs in the area to have the most straightforward landing and welcoming of refugees.
 
-- **Aldi** (Various Locations, England): March 2015 - October 2018
+- **Aldi** (Various Locations, England): March 2015 - February 2019
 
 Deputy Manager:
 Aldi is a very fast-paced working environment and I need to be on top at everything I do. Productivity targets are high, therefore focus, speed and quality are priorities. I worked closely with the Store Managers and deputise when they were away. My main duties included: Managing the team to meet the company's KPI targets, customer service including resolving complaints, supporting and motivating team members, setting up the store for deliveries, cashing up and banking, and administration.
