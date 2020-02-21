@@ -107,7 +107,6 @@ During my time at IACA, I was able to engage in diplomatic meetings for translat
 
 #### Makers Academy (March 2019 - June 2019)
 
-Fully immersive 16 week programming course at leading Europe's Developer Bootcamp. Focused on core coding principles and techniques. Emphasis on agile methodologies, Test Driven Development (TDD), Object Oriented Programing and pair programming, to mention some.
 
 - Languages: Ruby, JavaScript, HTML/CSS, Python, Swift.
 - Web Frameworks: Sinatra, Ruby on Rails.
@@ -118,7 +117,7 @@ Fully immersive 16 week programming course at leading Europe's Developer Bootcam
 
 #### University of Southampton (September 2017 - June 2019)
 
-- MSc Criminology - expected 2:1
+- MSc Criminology - Distinction
 - During my time doing this Master I attended an intensive two weeks course at the United Nations in Vienna where I reinforced my eagerness to learn tech skills in order to tackle pressing crime and social issues.
 - During my Master I was exposed to various technological tools for research. Working in projects along students from the Data Science and Cybersecurity Masters, I realised the many amazing possibilities that software engineering can offer to the field of research to better understanding and tackling crime and other societal issues. After working along with people from a computer science background and being exposed to the amazing stuff they could make, there was no doubt in my mind that software engineering was the path I wanted to take on and own.
 
