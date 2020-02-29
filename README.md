@@ -11,7 +11,7 @@ My eagerness to solve pressing issues led me into the world of software and tech
 
 My background in research and retail management have given me a solid foundation in problem solving and data analysis as well as team management and the ability to cope under pressure. This varied background has given me the tools to be true to myself and others I work with. My self awareness has allowed me to be authentic and humble in a professional setting.
 
-I find extreme joy in learning and continuously preparing myself. I am really excited and ready to embrace a career in Software Development with the goal of using my skills in real life projects; learning and gwowing within Tech.
+I find extreme joy in learning and continuously preparing myself. I am really excited and ready to embrace a career in Software Development with the goal of using my skills in real life projects; learning and growing within Tech.
 
 **Background**
 
@@ -66,6 +66,9 @@ Working along people from all over the world in different parts of Europe, doing
 
 
 ## Experience
+- **Alliants
+Junior Software Developer:
+I have learnt so much during this time and I look forward to learn more. At Alliants, I am part of a 7 person team, developing a messaging platform for the hospitality industry. As a Junior Developer, I have been able to work in tickets since week one. The stack we currently use includes: Ruby on Rails, React, Typescript, React, GraphQL, Docker, AWS. While I feel more confident undertakig backend tickets, I love new challenges and enjoy learning in the job which has allowed me to complete frontend tickets as well. 
 
 - **UNODC United Nations Office on Drugs and Crime** (Vienna, Austria): January 2019 
 
